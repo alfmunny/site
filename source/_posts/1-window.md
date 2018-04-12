@@ -17,8 +17,9 @@ Create am empty visual C++ project in Visual Studio([Get Visual Studio](https://
 
 To write a game engine, we start with the window at first.
 
-OpenGL doesn't concern about the management of windows and inputs. Therefor we use
-GLFW to deal with it. [GLFW](http://www.glfw.org/) is an Open Source, multi-platform library for OpenGL, which provides a simple API for creating window and receiving input.
+OpenGL doesn't concern about the management of windows and inputs. Therefor we use GLFW to deal with it.
+
+[GLFW](http://www.glfw.org/) is an Open Source, multi-platform library for OpenGL, which provides a simple API for creating window and receiving input.
 
 Following the steps to setup GLFW library.
 

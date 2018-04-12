@@ -1,7 +1,7 @@
 ---
 title: Neural Networks and Deep Learning - 1. Introduction to Deep Learning
 date: 2018-04-10 16:55:09
-description: Notes of Coursera open course Netural Networks and Deep Learning
+description: Notes of Coursera open course Netural Networks and Deep Learning. A short introduction of Neural Networks
 categories:
 - Computer
 - Deep Learning
@@ -9,8 +9,6 @@ tags:
 - python
 - Coursera
 photos:
-- image-20180410200431559.png
-- image-20180410200431559.png
 ---
 
 These notes are taken from the Coursera open course [Netural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome). Therefore here are only some important concepts that helped me to understand the materials. 
@@ -66,9 +64,7 @@ Provided this single neuron model, we can predict the price at a given x, here t
 
 A Neural Network is to connect these neurons with diffrent input dimensons and parameters.
 
-{% asset_img image-20180410200431559.png "Neural Network" %}
-
-
+{% asset_img graph1.svg "Neural Network" %}
 
 ## Standard NN, CNN and RNN
 
