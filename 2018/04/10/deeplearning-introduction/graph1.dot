@@ -1,0 +1,56 @@
+digraph Test {
+    rankdir=LR
+    size="8,4"
+    ratio="fill"
+    node [shape=circle,width=0.8,fixedsize=true]
+    subgraph cluster_0{
+        A B C D
+        color=white
+        node [style=solid,color=blue4, shape=circle]
+        label = "input"
+    }
+
+    subgraph cluster_1{
+        N1 N2 N3
+        color=white
+        label = "layer 1"
+    }
+
+    subgraph cluster_2{
+        color=white
+        output
+        label = "layer 2"
+    }
+
+    subgraph cluster_3{
+        color=white
+        y
+        label = "output"
+    }
+
+
+    N1[label=<f<SUB>1</SUB>(x)>];
+    N2[label=<f<SUB>2</SUB>(x)>];
+    N3[label=<f<SUB>3</SUB>(x)>];
+    A[label=Size]
+    B[label=Rooms] 
+    C[label=Adress]
+    D[label=Wealth]
+    output[label=<f<SUB>4</SUB>(x)>]
+    A -> N1
+    B -> N1
+    C -> N1
+    D -> N1
+    A -> N2
+    B -> N2
+    C -> N2
+    D -> N2
+    A -> N3
+    B -> N3
+    C -> N3
+    D -> N3
+    N1 -> output
+    N2 -> output
+    N3 -> output
+    output -> y
+}
