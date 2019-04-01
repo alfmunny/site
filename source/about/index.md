@@ -3,14 +3,14 @@ title: "Me"
 excerpt: "Welcome to the Shell"
 ---
 
-Hi, I'm Alfmunny, a programmer living in Munich.
+Hi, I'm alfmunny, a programmer living in Munich.
 
 ### languages
 Python, Ruby, C++, Java, C#, Chinese, German, English, French, Japanese.
 
 ### places
-Germany, Greece, Italy, Spain, France, Netherland, Belgien, Austria, Swiss, Iceland, Japan ... And China is always there in my heart.
-
+before 2017: China, Germany, Greece, Italy, Spain, France, Netherland, Belgien, Czech, Austria, Swiss, Iceland, Japan.
+after: a lot more I'm sure.
 
 ### anything 
 Big fan of Yasujiro Ozu and Billy Wilder. Their films have always been helping me through hard times.
@@ -28,3 +28,4 @@ devenir immortel. Et puis: mourir.
 
 
 竹杖芒鞋轻胜马，谁怕！一蓑烟雨任平生。
+回首向来萧瑟处，归去，也无风雨也无晴。

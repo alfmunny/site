@@ -86,6 +86,6 @@ math:
 deploy:
   type: git
   repo: https://github.com/alfmunny/alfmunny.github.io.git
-  branch: gh-pages
+  branch: master
   name: alfmunny
   email: alfmunny@gmail.com
