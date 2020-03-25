@@ -3,9 +3,6 @@ title: "Me"
 excerpt: "Welcome to the Shell"
 ---
 
-### languages
-Python, Ruby, C++, Java, C#, Chinese, German, English, French, Japanese.
-
 ### fun facts
 
 - @Munich
@@ -14,7 +11,9 @@ Python, Ruby, C++, Java, C#, Chinese, German, English, French, Japanese.
 
 - Sometimes paint
 
-### places have been
+- Python, Ruby, C++, Java, Chinese, German, English, French, Japanese.
+
+### places lived or visited
 China, Germany, Greece, Italy, Spain, France, Netherland, Belgien, Czech, Austria, Swiss, Iceland, Japan, England...
 
 
