@@ -9,6 +9,7 @@ tags:
 - python
 - Coursera
 photos:
+mathjax: true
 ---
 
 These notes are taken from the Coursera open course [Netural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome). Therefore here are only some important concepts that helped me to understand the materials. 
@@ -71,4 +72,3 @@ A Neural Network is to connect these neurons with diffrent input dimensons and p
 Convolutional Neural Network can be used on image problems.
 
 Recurrent Neural Network can be used on audio problems.
-
