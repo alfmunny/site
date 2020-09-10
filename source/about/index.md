@@ -1,5 +1,5 @@
 ---
-title: "Me"
+title: "ME"
 excerpt: "Welcome to the Shell"
 ---
 
@@ -13,9 +13,7 @@ excerpt: "Welcome to the Shell"
 
 - Python, Ruby, C++, Java, Chinese, German, English, French, Japanese.
 
-### places lived or visited
-
-China, Germany, Greece, Italy, Spain, France, Netherland, Belgien, Czech, Austria, Swiss, Iceland, Japan, England...
+- Travel a lot
 
 *********
 > Don't ever tell anybody anything. If you do, you start missing everybody
